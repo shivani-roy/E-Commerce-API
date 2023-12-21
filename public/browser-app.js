@@ -1,5 +1,7 @@
-/*!jQuery v1.12.4 | (c) jQuery Foundation | jquery.org/license*/
-!(function (a, b) {
+/*!jQuery v1.12.4 | (c) jQuery Foundation | jquery.org/license*/ !(function (
+  a,
+  b
+) {
   "object" == typeof module && "object" == typeof module.exports
     ? (module.exports = a.document
         ? b(a, !0)
